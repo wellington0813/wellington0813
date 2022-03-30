@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 <div>
-  <h1 align="center">Eae eu sou<a href="https://www.linkedin.com/in/edududuribeiro/"><i> Wellington0813</i>✌🏿</a></h1>
+  <h1 align="center">Eae eu sou<a href="https://www.linkedin.com/in/wellington-rodrigues/"><i> Wellington0813</i>✌🏿</a></h1>
 </div>
 
 <div align="center">
