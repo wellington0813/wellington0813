@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 <div>
-  <h1 align="center">Eae eu sou<a href="https://www.linkedin.com/in/wellington-rodrigues/"><i> Wellington0813</i>✌🏿</a></h1>
+  <h1 align="center">Eae eu sou<a href="https://www.linkedin.com/in/wellington-rodrigues-931902184/"><i> Wellington0813</i>✌🏿</a></h1>
 </div>
 
 <div align="center">
@@ -36,7 +36,7 @@
   </a>
   <a href="mailto:2607wellington@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/wellington-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/wellington-rodrigues-931902184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
 
