@@ -16,7 +16,7 @@
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" height="300">
 </p>
 <div align="center"> 
-    <h1 align="center">⚡️Tecnologias que estudo⚡️</h1>
+    <h1 align="center">☄️Tecnologias e Frameworks </h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Dev-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Dev-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
@@ -27,6 +27,7 @@
 
 <br>
  <div align="center">
+    <h1 align="center">⚡️GitHub Stats</h1>
   <a href="https://github.com/wellington0813">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wellington0813&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington0813&theme=dracula&hide_border=false&&layout=compact"/>
