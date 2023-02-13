@@ -8,7 +8,7 @@
 </div>
 <br>
 <div>
-  Formado em Análise e Desenvolvimento de Sistemas, tenho 21 anos,Desenvolvedor Front-end Jr buscando sempre melhorar meus conhecimentos e aperfeiçoar minhas práticas,   tenho como fóco me tornar um bom programador FullStack
+  Formado em Análise e Desenvolvimento de Sistemas, tenho 21 anos, Desenvolvedor Front-end Jr buscando sempre melhorar meus conhecimentos e aperfeiçoar minhas práticas,   tenho como fóco me tornar um bom programador FullStack
   <h2></h2>
 </div>
 
